@@ -1,0 +1,1 @@
+Simple chess application designed to play against opponents with the skill of an average human player (looking 3-4 ply ahead).  Uses either a random move, Minimax or Minimax with Alpha Beta pruning to choose a move.  Based around ChessApp originally developed by Peter Hunter.
